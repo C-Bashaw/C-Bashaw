@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, JS('nilla), MySQL. Upcoming: Node.js, React, MongoDB, Flask.
 - 💞️ I’m looking to collaborate on anything that will help me learn better devex practices and more practical, applicable skills
 - 📫 You may reach me here on GitHub, or via [LinkedIn](https://www.linkedin.com/in/cody-bashaw/ 
- "Cody's Profile")
+ "Cody's Profile"). I generally don't respond to cold-contacts unless you have a good pitch, friends of friends are welcome.
 
 - 🤑 Avid consumer of most nerdoms, books, and games. Get at me with your homebrew TTRPGS.
 
